@@ -1,114 +1,6 @@
-<!DOCTYPE html>
-<html lang="en-US" class="no-js">
-
-
-<!-- Mirrored from max-themes.net/demos/financity/demo1/technology-advisory.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 28 Feb 2021 14:04:01 GMT -->
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title>Financity &#8211; Financial &amp; Business HTML Template</title>
-
-
-    <link rel='stylesheet' href='plugins/revslider/public/assets/css/settings.css' type='text/css' media='all'>
-    <link rel='stylesheet' href='css/style-core.css' type='text/css' media='all'>
-    <link rel='stylesheet' href='css/financity-style-custom.css' type='text/css' media='all'>
-    <link rel='stylesheet' href='plugins/goodlayers-core/plugins/combine/style.css' type='text/css' media='all'>
-    <link rel='stylesheet' href='plugins/goodlayers-core/include/css/page-builder.css' type='text/css' media='all'>
-
-    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Montserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7COpen+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7CAsap%3Aregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic&amp;subset=latin-ext%2Clatin%2Cvietnamese%2Ccyrillic-ext%2Cgreek%2Cgreek-ext%2Ccyrillic&amp;ver=4.9.5' type='text/css' media='all'>
-
-
-</head>
-
-<body class="home page-template-default page page-id-2039 gdlr-core-body financity-body financity-body-front financity-full  financity-with-sticky-navigation gdlr-core-link-to-lightbox">
-    <div class="financity-mobile-header-wrap">
-        <div class="financity-mobile-header financity-header-background financity-style-slide" id="financity-mobile-header">
-            <div class="financity-mobile-header-container financity-container">
-                <div class="financity-logo  financity-item-pdlr">
-                    <div class="financity-logo-inner">
-                        <a href="index.html"><img src="upload/logo.png" alt="" width="211" height="48"></a>
-                    </div>
-                </div>
-                <div class="financity-mobile-menu-right">
-                    
-                    <div class="financity-mobile-menu"><a class="financity-mm-menu-button financity-mobile-menu-button financity-mobile-button-hamburger" href="#financity-mobile-menu"><span></span></a>
-                        <div class="financity-mm-menu-wrap financity-navigation-font" id="financity-mobile-menu" data-slide="right">
-                            <ul id="menu-main-navigation" class="m-menu">
-                                <li class="menu-item menu-item-home current-menu-item page_item page-item-2039 current_page_item"><a href="index.html">Home</a></li>
-                                <li class="menu-item"><a href="about-us.html">About Us</a></li>
-                                <li class="menu-item"><a href="contact.html">Contact</a></li>
-                                <li class="menu-item menu-item-has-children"><a href="services.html">Our Services</a>
-        
-                                </li>
-                                
-                                <li class="menu-item menu-item-has-children"><a href="blog.html">Blog</a>
-                                    
-                                </li>
-                               
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="financity-body-outer-wrapper ">
-        <div class="financity-body-wrapper clearfix  financity-with-transparent-navigation financity-with-frame">
-            <div class="financity-header-background-transparent">
-
-                <header class="financity-header-wrap financity-header-style-bar  financity-style-left">
-                    <div class="financity-header-background"></div>
-                    <div class="financity-header-container clearfix  financity-container">
-                        <div class="financity-header-container-inner">
-                            <div class="financity-logo  financity-item-pdlr">
-                                <div class="financity-logo-inner">
-                                    <a href="index.html"><img src="images/logo.png" alt=""></a>
-                                </div>
-                            </div>
-                            <div class="financity-logo-right-text financity-item-pdlr">
-                                <div class="financity-logo-right-block">
-                                    <div class="financity-logo-right-block-content">
-                                        <div class="financity-logo-right-block-title">Number #1</div>
-                                        <div class="financity-logo-right-block-caption">in Finland</div>
-                                    </div>
-                                </div>
-                                <div class="financity-logo-right-block">
-                                    <div class="financity-logo-right-block-content">
-                                        <div class="financity-logo-right-block-title">Industry Standard</div>
-                                        <div class="financity-logo-right-block-caption">ISO 20022</div>
-                                    </div>
-                                </div>
-                                <div class="financity-logo-right-block">
-                                    <div class="financity-logo-right-block-content">
-                                        <div class="financity-logo-right-block-title">Trusted By</div>
-                                        <div class="financity-logo-right-block-caption">20,000 Customers</div>
-                                    </div>
-                                </div><a class="financity-header-right-button" href="contact.html" target="_self">Get A Quote</a></div>
-                        </div>
-                    </div>
-
-                    <div class="financity-navigation-bar-wrap  financity-sticky-navigation financity-sticky-navigation-height financity-style-left  financity-style-fixed">
-                        <div class="financity-navigation-background financity-show-in-sticky financity-style-transparent"></div>
-                        <div class="financity-navigation-container clearfix  financity-container">
-                            <div class="financity-navigation financity-item-mglr clearfix ">
-                                <div class="financity-navigation-background financity-hide-in-sticky"></div>
-                                <div class="financity-main-menu" id="financity-main-menu">
-                                    <ul id="menu-main-navigation-1" class="sf-menu">
-                                        <li class="menu-item menu-item-home current-menu-item page_item page-item-2039 current_page_item financity-normal-menu"><a href="index.html"><i class="fa fa-home"></i>Home</a></li>
-                                        <li class="menu-item menu-item-has-children financity-normal-menu"><a href="about-us.html" class="sf-with-ul-pre">About Us</a></li>
-                                        <li class="menu-item menu-item-has-children financity-normal-menu"><a href="contact.html" class="sf-with-ul-pre">Contact</a></li>
-                                        <li class="menu-item menu-item-has-children financity-normal-menu"><a href="services.html" class="sf-with-ul-pre">Our Services</a></li>
-                                        <li class="menu-item menu-item-has-children financity-normal-menu"><a href="blog.html" class="sf-with-ul-pre">Blog</a></li>
-                                        
-                                    </ul>
-                                </div>
-                               
-                            </div>
-                        </div>
-                    </div>
-                </header>
-            </div>
+<?php
+    require_once "inc/header.php";
+?>
 
             <div class="financity-page-wrapper" id="financity-page-wrapper">
                 <div class="gdlr-core-page-builder-body">
@@ -127,9 +19,9 @@
                                 <div class="gdlr-core-pbf-element">
                                     <div class="gdlr-core-breadcrumbs-item gdlr-core-item-pdlr gdlr-core-item-pdb "> <span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Financity." href="https://demo.goodlayers.com/financity" class="home"><span property="name">Financity</span></a>
                                         <meta property="position" content="1">
-                                        </span>•<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Our Services." href="index.html" class="post post-page"><span property="name">Our Services</span></a>
+                                        </span>•<span property="itemListElement" typeof="ListItem"><a property="item" typeof="WebPage" title="Go to Our Services." href="index.php" class="post post-page"><span property="name">Our Services</span></a>
                                         <meta property="position" content="2">
-                                        </span>•<span property="itemListElement" typeof="ListItem"><span property="name">Technology Advisory</span>
+                                        </span>•<span property="itemListElement" typeof="ListItem"><span property="name">Capital Markets</span>
                                         <meta property="position" content="3">
                                         </span>
                                     </div>
@@ -137,7 +29,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="gdlr-core-pbf-sidebar-wrapper " style="margin: 0px 0px 0px 40px;">
+                    <div class="gdlr-core-pbf-sidebar-wrapper " style="margin: 0px 0px 0px 41px;">
                         <div class="gdlr-core-pbf-sidebar-container gdlr-core-line-height-0 clearfix gdlr-core-js gdlr-core-container">
                             <div class="gdlr-core-pbf-sidebar-content  gdlr-core-column-45 gdlr-core-pbf-sidebar-padding gdlr-core-line-height gdlr-core-column-extend-right" style="padding: 60px 0px 0px 0px;">
                                 <div class="gdlr-core-pbf-sidebar-content-inner">
@@ -150,7 +42,7 @@
                                                 <div class="gdlr-core-pbf-element">
                                                     <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr">
                                                         <div class="gdlr-core-title-item-title-wrap ">
-                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 60px;font-weight: 600;letter-spacing: 0px;text-transform: none;color: #3e4494;">Technology Advisory<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 13px;font-style: normal;letter-spacing: 2px;text-transform: uppercase;margin-top: 0px;">GLOBAL STRATEGIES, INSIGHT-DRIVEN TRANSFORMATION</span></div>
+                                                            <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 60px;font-weight: 600;letter-spacing: 0px;text-transform: none;color: #3e4494;">Capital Markets<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider"></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 13px;font-style: normal;letter-spacing: 2px;text-transform: uppercase;margin-top: 0px;">GLOBAL STRATEGIES, INSIGHT-DRIVEN TRANSFORMATION</span></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -161,7 +53,8 @@
                                                 <div class="gdlr-core-pbf-element">
                                                     <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px;">
                                                         <div class="gdlr-core-text-box-item-content">
-                                                            <p>Our Trading helps clients run and transform their front, middle and back-office trading operations. We provide buy-side, sell-side and market infrastructure firms with a full-service offering, including systems integration and technology consulting services, to assist in delivering high performance trading and settlement capabilities across all asset classes. This includes strategy, architecture design, operating model work, process improvement, systems building and trading package integration as well as application management, application outsourcing and business process outsourcing. <img class="alignleft wp-image-5308" src="upload/shutterstock_211211362.jpg" alt="" width="400" height="267">More than 25 years of experience working in the industry has enabled us to build our services and solutions in strategy, consulting, digital, technology and operations that help our clients with their trading projects around the world. Capabilities we leverage for our clients include a powerful alliance network with leading capital markets software vendors, and programs such as the FinTech Innovation Lab that keep us at the forefront of innovation. Our Trading helps clients run and transform their front, middle and back-office trading operations. We provide buy-side, sell-side and market infrastructure firms with a full-service offering, including systems integration and technology consulting Our Trading helps clients run and transform their front, middle and back-office trading operations. We provide buy-side, sell-side and market infrastructure firms with a full-service offering, including systems integration and technology consulting services, to assist in delivering high performance trading and settlement capabilities across all asset classes. This includes strategy, architecture design, operating model work, process improvement, systems building and trading package.</p>
+                                                            <p>Our Trading helps clients run and transform their front, middle and back-office trading operations. We provide buy-side, sell-side and market infrastructure firms with a full-service offering, including systems integration and technology consulting services, to assist in delivering high performance trading and settlement capabilities across all asset classes. This includes strategy, architecture design, operating model work, process improvement, systems building and trading package integration as well as application management, application outsourcing and business process outsourcing.
+                                                                <a href="upload/shutterstock_247037281.jpg"><img class="alignleft wp-image-5310" src="upload/shutterstock_247037281.jpg" alt="" width="400" height="273"></a>More than 25 years of experience working in the industry has enabled us to build our services and solutions in strategy, consulting, digital, technology and operations that help our clients with their trading projects around the world. Capabilities we leverage for our clients include a powerful alliance network with leading capital markets software vendors, and programs such as the FinTech Innovation Lab that keep us at the forefront of innovation. Our Trading helps clients run and transform their front, middle and back-office trading operations. We provide buy-side, sell-side and market infrastructure firms with a full-service offering, including systems integration and technology consulting Our Trading helps clients run and transform their front, middle and back-office trading operations. We provide buy-side, sell-side and market infrastructure firms with a full-service offering, including systems integration and technology consulting services, to assist in delivering high performance trading and settlement capabilities across all asset classes. This includes strategy, architecture design, operating model work, process improvement, systems building and trading package.</p>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -330,7 +223,7 @@
                                     <div id="nav_menu-3" class="widget widget_nav_menu financity-widget">
                                         <div class="menu-our-services-container">
                                             <ul id="menu-our-services" class="menu">
-                                                <li class="menu-item current_page_item menu-item-5453"><a href="index.html">Capital Markets</a></li>
+                                                <li class="menu-item current_page_item menu-item-5453"><a href="index.php">Capital Markets</a></li>
                                                 <li class="menu-item"><a href="#">Insurance</a></li>
                                                 <li class="menu-item"><a href="#">Blockchain</a></li>
                                                 <li class="menu-item"><a href="#">Technology Advisory</a></li>
@@ -371,8 +264,6 @@
                             </div>
                         </div>
                     </div>
-
-
                     <div class="gdlr-core-pbf-wrapper " style="padding: 55px 0px 50px 0px;">
                         <div class="gdlr-core-pbf-background-wrap" style="background-color: #313787 ;"></div>
                         <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
@@ -451,11 +342,11 @@
                                 <h3 class="financity-widget-title">Useful Links</h3>
                                 <div class="menu-useful-links-container">
                                     <ul id="menu-useful-links" class="menu">
-                                        <li class="menu-item"><a href="about-us.html">About Us</a></li>
-                                        <li class="menu-item"><a href="about-our-team.html">Our Team</a></li>
-                                        <li class="menu-item"><a href="services.html">Our Services</a></li>
-                                        <li class="menu-item"><a href="blog-3-columns-with-frame-post-format.html">News</a></li>
-                                        <li class="menu-item"><a href="career.html">Career</a></li>
+                                        <li class="menu-item"><a href="about-us.php">About Us</a></li>
+                                        <li class="menu-item"><a href="about-our-team.php">Our Team</a></li>
+                                        <li class="menu-item"><a href="services.php">Our Services</a></li>
+                                        <li class="menu-item"><a href="blog-3-columns-with-frame-post-format.php">News</a></li>
+                                        <li class="menu-item"><a href="career.php">Career</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -526,7 +417,7 @@
     <script type='text/javascript' src='js/jquery/ui/effect.min.js'></script>
     <script type='text/javascript'>
         var financity_script_core = {
-            "home_url": "index.html//"
+            "home_url": "index.php//"
         };
     </script>
     <script type='text/javascript' src='js/script-core.js'></script>
@@ -547,5 +438,5 @@
 
 </body>
 
-<!-- Mirrored from max-themes.net/demos/financity/demo1/technology-advisory.html by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 28 Feb 2021 14:04:01 GMT -->
+<!-- Mirrored from max-themes.net/demos/financity/demo1/capital-markets.php by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 28 Feb 2021 14:04:01 GMT -->
 </html>
